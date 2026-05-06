@@ -1,3 +1,7 @@
+"""
+visualize a dynamic ASCII art Christmas tree with twinkling star and ornaments
+"""
+
 import random
 import sys
 import time
